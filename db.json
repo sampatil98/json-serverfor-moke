@@ -1,9 +1,44 @@
 {
-    "data":[
-        {
-            "Name":"sambhaji",
-            "age":24
-        }
-    ],
-    "admin":[]
-}
+    "user": [
+      {
+        "id": 1001,
+        "Name": "sambhaji",
+        "Age": 24,
+        "Place": "pune",
+        "Batch": "WEB-13",
+        "Profession": "Backend"
+      },
+      {
+        "Name": "omkar",
+        "Age": "20",
+        "Place": "nanded",
+        "Batch": "Frontend",
+        "Profession": "Backend",
+        "id": 1002
+      },
+      {
+        "Name": "adarsh",
+        "Age": "22",
+        "Place": "barshi",
+        "Batch": "Backend",
+        "Profession": "Backend",
+        "id": 1003
+      },
+      {
+        "Name": "shree",
+        "Age": "24",
+        "Place": "basmath",
+        "Batch": "WEB-15",
+        "Profession": "FSD",
+        "id": 1008
+      },
+      {
+        "Name": "yogita",
+        "Age": "26",
+        "Place": "pune",
+        "Batch": "WEB-15",
+        "Profession": "FSD",
+        "id": 1009
+      }
+    ]
+  }
